@@ -1,0 +1,3 @@
+[submodule "valkyrie-engine"]
+	path = valkyrie-engine
+	url = https://github.com/ddiehlpdx/valkyrie-engine.git
